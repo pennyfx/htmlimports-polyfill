@@ -59,7 +59,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-bumpup');
   grunt.loadNpmTasks('grunt-exec');
 
-  grunt.registerTask('build', ['concat:dist']);
+  grunt.registerTask('build', ['smush-components','concat:dist']);
   grunt.registerTask('bump:patch', ['bumpup:patch', 'tagrelease']);
 
   grunt.registerTask('push', ['exec:update_master']);
