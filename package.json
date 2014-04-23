@@ -1,6 +1,6 @@
 {
   "name": "htmlimports",
-  "description": "Makes Polymer/HTMLImports bower friendly",
+  "description": "Makes Polymer/HTMLImports Bower friendly",
   "version": "0.0.0",
   "author": "Arron Schaar",
   "dependencies": {},

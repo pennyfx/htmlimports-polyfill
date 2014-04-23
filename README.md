@@ -3,7 +3,7 @@
 Bower consumable HTMLImports
 
 ```
-bower install polyfill-htmlimports
+bower install htmlimports-polyfill
 ```
 
 
