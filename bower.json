@@ -1,0 +1,17 @@
+{
+  "name": "htmlimports",
+  "description": "Makes Polymer/HTMLImports bower friendly",
+  "version": "0.0.0",
+  "author": "Arron Schaar",
+  "keywords": [
+  	"Library",
+    "web-components",
+    "x-tag"
+  ],
+  "main": [
+    "src/html-imports.js"
+  ],
+  "dependencies": {
+
+  }
+}
