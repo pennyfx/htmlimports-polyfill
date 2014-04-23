@@ -12,6 +12,7 @@
     "src/html-imports.js"
   ],
   "dependencies": {
+    "MutationObserver": "~0.2.0",
     "WeakMap": "~0.2.1"
   }
 }
