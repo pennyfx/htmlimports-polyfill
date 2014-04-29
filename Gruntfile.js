@@ -61,6 +61,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('build', ['smush-components','concat:dist']);
   grunt.registerTask('bump:patch', ['bumpup:patch', 'tagrelease']);
+  grunt.registerTask('bump:push', ['bumpup:patch', 'tagrelease','push']);
 
   grunt.registerTask('push', ['exec:update_master']);
 

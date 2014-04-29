@@ -1,6 +1,6 @@
 {
-  "name": "htmlimports",
-  "description": "Makes Polymer/HTMLImports Bower friendly",
+  "name": "HTHML-Imports",
+  "description": "HTML Imports polyfill for Web Components.",
   "version": "0.0.2",
   "author": "Arron Schaar",
   "keywords": [
